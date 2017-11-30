@@ -21,9 +21,9 @@ Sí, ya sé que es un poco injusto que el pequeño no gane nada, pero así es la
 Se recomienda redimensionar los peces para que sean pequeños
 
 ![](img/5-1.png)
-<script type="text/javascript">var feedback101_93text = "Solución";</script><input type="button" name="toggle-feedback-101_93" value="Solución" class="feedbackbutton" onclick="$exe.toggleFeedback(this,false);return false" />
 
-### Retroalimentación
+
+%accordion%Solución%accordion%
 
 Creamos una variable que lleve la puntuación, aquí lo hemos llamado "score"
 
@@ -36,4 +36,6 @@ Programa del tiburón
 
 ![](img/5-3.png)
 [Descarga del programa](peces.sb)
+
+%/accordion%
 

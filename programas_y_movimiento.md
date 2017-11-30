@@ -23,11 +23,14 @@ El objeto se mueve en la dirección en la que apunta. Hay un bloque que hace que
 Haz que el objeto se mueva según las flechas de teclado.
 
 ![](img/Seleccion_079.png)
-<script type="text/javascript">var feedbackquesFeedback0b131text = "Mostrar retroalimentación";</script><input type="button" name="toggle-feedback-quesFeedback0b131" value="Mostrar retroalimentación" class="feedbackbutton" onclick="$exe.toggleFeedback(this,true);return false" />
 
-### Retroalimentación
+
+%accordion%Solución%accordion%
 
 ![](img/Seleccion_080.png)
+
+%/accordion%
+
 ## Caso práctico
 
 La posición de un objeto se controla con coordendas X e Y. La posición de estas coordenadas en la pantalla es la siguiente:
@@ -42,9 +45,10 @@ Añade este programa.
 ![](img/Seleccion_050.1.png)
 ¿Qué hace este programa?
 
-<script type="text/javascript">var feedbackquesFeedback0b132text = "Mostrar retroalimentación";</script><input type="button" name="toggle-feedback-quesFeedback0b132" value="Mostrar retroalimentación" class="feedbackbutton" onclick="$exe.toggleFeedback(this,true);return false" />
 
-### Retroalimentación
+
+%accordion%Solución%accordion%
 
  Este programa mueve el objeto a la zona inferior derecha de la pantalla cuando se presiona la tecla b.
 
+%/accordion%

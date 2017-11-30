@@ -9,9 +9,9 @@ Moveremos el gato con las flechas del teclado. el gato cambiará de disfraz para
 
 Hacer que cuando el gato toque al perro, el perro se mueva a una posición aleatoria y ladre.
 
-<script type="text/javascript">var feedbackquesFeedback0b146text = "Mostrar retroalimentación";</script><input type="button" name="toggle-feedback-quesFeedback0b146" value="Mostrar retroalimentación" class="feedbackbutton" onclick="$exe.toggleFeedback(this,true);return false" />
 
-### Retroalimentación
+
+%accordion%Solución%accordion%
 
 En una actividad anterior hemos visto que el bloque "Si....entonces" lo podemos añadir por cuatro veces después de presionar cada tecla. En esta solución se muestra cómo poner estos bloques sólo una vez en un programa independiente dentro de la programación del Gato, y es necesario añadir el bloque "por siempre" para que se esté constantemente comprobando si el gato toca al perro.
 
@@ -21,3 +21,5 @@ En una actividad anterior hemos visto que el bloque "Si....entonces" lo podemos 
 **Programación del Perro:**
 
 ![](img/Seleccion_027.1.png)
+
+%/accordion%

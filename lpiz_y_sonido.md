@@ -11,8 +11,10 @@ Los bloques de **Sonido** sirven para reproducir sonidos en algún momento de nu
 
 Haz un programa que muestre el camino por donde se ha movido el gato. Añade que suene un "miau" después de haber pintado la línea.
 
-<script type="text/javascript">var feedbackquesFeedback0b134text = "Mostrar retroalimentación";</script><input type="button" name="toggle-feedback-quesFeedback0b134" value="Mostrar retroalimentación" class="feedbackbutton" onclick="$exe.toggleFeedback(this,true);return false" />
 
-### Retroalimentación
+
+%accordion%Solución%accordion%
 
 ![](img/Seleccion_081.png)
+
+%/accordion%

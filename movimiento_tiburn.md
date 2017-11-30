@@ -13,8 +13,10 @@ Hora vamos a añadir un
 ![](img/1-1.png)
 Guardarlo en el mismo fichero!!!
 
-<script type="text/javascript">var feedback91_93text = "Solución";</script><input type="button" name="toggle-feedback-91_93" value="Solución" class="feedbackbutton" onclick="$exe.toggleFeedback(this,false);return false" />
 
-### Retroalimentación
+
+%accordion%Solución%accordion%
 
 ![](img/1-2.png)
+
+%/accordion%

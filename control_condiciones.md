@@ -9,13 +9,16 @@ Añade estos bloques y pruébalos dándole a la bandera. (Los bloques verdes est
 ## Caso práctico
 
 ![](img/Seleccion_053.png)
-<script type="text/javascript">var feedbackquesFeedback0b136text = "Mostrar retroalimentación";</script><input type="button" name="toggle-feedback-quesFeedback0b136" value="Mostrar retroalimentación" class="feedbackbutton" onclick="$exe.toggleFeedback(this,true);return false" />
 
-### Retroalimentación
+
+%accordion%Solución%accordion%
 
 Primero hay que crear los bloques que comprueben si estamos tocando el borde, y entonces maullar:
 
 ![](img/Seleccion_020.1.png)
+
 Una posible solución donde añadir la comprobación de tocar el borde, es añadirlo justo después de mover el gato en todas las direcciones.
 
 ![](img/Seleccion_086.png)
+
+%/accordion%

@@ -8,8 +8,10 @@
 Por ejemplo el mensaje puede ser "Me largo !" durante 0.2 seg
 
 ![](img/4-1.png)
-<script type="text/javascript">var feedback72_93text = "Solución";</script><input type="button" name="toggle-feedback-72_93" value="Solución" class="feedbackbutton" onclick="$exe.toggleFeedback(this,false);return false" />
 
-### Retroalimentación
+
+%accordion%Solución%accordion%
 
 ![](img/4-6.png)
+
+%/accordion%

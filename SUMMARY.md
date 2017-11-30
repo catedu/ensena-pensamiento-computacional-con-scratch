@@ -11,7 +11,7 @@ ____
     * [On-Line](online.md)
     * [Off-Line](offline.md)
 * [Entorno Scratch](entorno_scratch.md)
-* [Â¡Ya funciona!](ya_funciona.md)
+* [¡Ya funciona!](ya_funciona.md)
 ____
 ### 2. Empezando a manejar Scratch
 * [Empezando a manejar Scratch](index1.md)
@@ -23,7 +23,7 @@ ____
 * [Control: repeticiones](control_repeticiones.md)
 * [Mensajes](mensajes.md)
 * [Variables](variables.md)
-* [Â¡El primer juego!](el_primer_juego.md)
+* [¡El primer juego!](el_primer_juego.md)
 ____
 ### 3. Proyecto
 * [Módulo 3 Proyecto](index2.md)
@@ -32,6 +32,6 @@ ____
 * [Aparencia](aparencia.md)
 * [Sonido](sonido.md)
 * [Me largo!!!](me_largo.md)
-* [Cobarde !!!](cobarde_.md)
+* [Cobarde!!!](cobarde_.md)
 * [Dos jugadores](dos_jugadores.md)
 * [Consejos](consejos.md)

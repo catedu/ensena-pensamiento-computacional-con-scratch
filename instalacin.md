@@ -9,15 +9,16 @@ Hay dos caminos para crear proyectos con Scratch 2:
 
 <li>**Sin necesidad de conexión a Internet: mediante Scratch 2 Offline Editor**
 <ul>
-1. Es el editor de proyectos Scratch que no necesita conexión a Internet para funcionar.
+- Es el editor de proyectos Scratch que no necesita conexión a Internet para funcionar.
 1. Recomendada en caso de existir problemas de conexión. 
 1. Los proyectos Scratch se guardan en archivos con extensión .sb2 dentro de nuestro ordenador.
 1. [Web oficial de descarga de Scratch 2](https://scratch.mit.edu/scratch2download/)
 </ul>
 </li>
-<li>******Con necesidad de conexión a Internet: ****mediante **Scratch 2 Online
+
+<li>**Con necesidad de conexión a Internet: mediante **Scratch 2 Online
 <ul>
-1. **Se realiza desde la página oficial [http://scratch.mit.edu/](http://scratch.mit.edu/) en CREAR. (Acceso directo: [https://scratch.mit.edu/projects/editor/](https://scratch.mit.edu/projects/editor/))**
+- **Se realiza desde la página oficial [http://scratch.mit.edu/](http://scratch.mit.edu/) en CREAR. (Acceso directo: [https://scratch.mit.edu/projects/editor/](https://scratch.mit.edu/projects/editor/))**
 1. Los proyectos Scratch se guardan en la Web de Scratch [http://scratch.mit.edu/](http://scratch.mit.edu/)
 1. Para guardar los proyectos realizadosen la Web, es necesario crearse una cuenta de usuario en la web de Scratch .
 1. Los proyectos Scratch se pueden exportar y acabar guardados en nuestro ordenador.

@@ -11,6 +11,7 @@ El primer paso que vamos a hacer es :
 1. Crear un programa que siempre persiga la posición del ratón
 
 ![](img/1.1.png)
+
 Guardalo que lo utilizaremos más adelante
 
 

@@ -11,6 +11,7 @@ Hora vamos a añadir un
 1. Haz un programa al sprite Sharck que se mueva según las flechas del teclado (pista: Ya lo vimos ;)
 
 ![](img/1-1.png)
+
 Guardarlo en el mismo fichero!!!
 
 

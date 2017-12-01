@@ -14,3 +14,10 @@ Glosario:
 - **Usuario** Si se apreta la tecla espacio que ...
 - **Sistema**: Si hora actual = 12 que ....
 
+![](img/Seleccion_008b.png)
+
+
+
+
+
+

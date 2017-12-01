@@ -7,6 +7,8 @@ Algo de música ¿no? las cosas con un poco de sal saben mejor ;)
 
 ****Poner una música de inicio al programa****
 
+Por ejemplo Xilo2 o la que tu quieras
+
 ![](https://upload.wikimedia.org/wikipedia/commons/2/2b/Musica_jkml%C3%B1.jpg)
 
 

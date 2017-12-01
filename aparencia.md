@@ -9,8 +9,8 @@ Ahora lo que vamos a hacer es que ...
 
 Es decir, realizar un programa que:
 
-<li>El sprite shark vaya cambiando de disfraz sin parar.<ol>
-1. Como hemos utilizado el sprite shark predefinido de la biblioteca, tiene ya los disfraces de abrir y cerrar la boca
+1. El sprite shark vaya cambiando de disfraz sin parar. Como hemos utilizado el sprite shark predefinido de la biblioteca, tiene ya los disfraces de abrir y cerrar la boca.
+2. Poner el escenario adecuado, hay uno predefinido de fondo marino.
 
 
 

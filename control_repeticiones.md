@@ -11,7 +11,13 @@ Para empezar a entender qué son las repeticiones, haz un programa que dibuje do
 %accordion%Solución%accordion%
 
 ![](img/Seleccion_022.png)
+
+
 Puedes duplicar los bloques (botón derecho - duplicar) para no tener que construir dos veces lo mismo.
+
+
+
+%/accordion%
 
 ¿Y si hubiera que pintar muchas líneas?: es decir, repetir lo mismo muchas veces. Entonces hay que añadir un bloque de control para hacer repeticiones. Las repeticiones también se llaman "bucles". Es posible añadir 3 tipos de bucles:
 
@@ -21,7 +27,6 @@ Puedes duplicar los bloques (botón derecho - duplicar) para no tener que constr
 
 ![](img/Seleccion_035.png)
 
-%/accordion%
 
 ## Caso práctico
 

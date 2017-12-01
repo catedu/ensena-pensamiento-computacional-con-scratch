@@ -14,6 +14,9 @@ Por ejemplo podría ser este:
 -  el pez grande gana un punto
 - suena un "zoop"
 
+<li>Si el pez pequeño toca el borde:
+<ul>
+
 - el pez grande gana otro punto
 
 Sí, ya sé que es un poco injusto que el pequeño no gane nada, pero así es la vida...
@@ -35,7 +38,7 @@ En el programa del pez pequeño:
 Programa del tiburón
 
 ![](img/5-3.png)
-[Descarga del programa](peces.sb)
+[Descarga del programa](http://aularagon.catedu.es/materialesaularagon2013/scratch/M3/peces.sb)
 
 %/accordion%
 

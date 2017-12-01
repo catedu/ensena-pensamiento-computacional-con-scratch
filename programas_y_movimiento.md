@@ -7,7 +7,7 @@ Si ya has trasteado mucho, cada vez que lo necesites, puedes volver a empezar u
 
 Vamos a añadir que al presionar la tecla "a", el objeto se gire 90 grados:
 
-1. Habrá que utilizar un bloque de Eventos, en concreto el bloque "al presionar tecla **espacio**" Pongo en cursiva espacio porque lo podremos cambiar. Haciendo clic en "**espacio**", podremos cambiarlo por "**a**".
+1. Habrá que utilizar un bloque de Eventos, en concreto el bloque "**al presionar tecla espacio**" Pongo en cursiva espacio porque lo podremos cambiar. Haciendo clic en "**espacio**", podremos cambiarlo por "**a**".
 1. Se necesita también el bloque de Movimiento "mover 10 pasos". Haciendo clic en el **10**, podríamos ponerle 100 para que avance más.
 
 ![](img/Seleccion_018.1.png)

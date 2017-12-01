@@ -1,5 +1,5 @@
 
-# Empezando a manejar Scratch
+# 2 Empezando a manejar Scratch
 
 En este bloque de contenidos vamos a empezar a usar Scratch. Se avanzará de forma progresiva, mostrando poco a poco las posibilidades que ofrece, e ¡incluso acabaremos consiguiendo realizar un juego de ordenador! ¿es fácil y posible? ¡sí!, ¡y se puede conseguir en muy poco tiempo!
 

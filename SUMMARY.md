@@ -36,5 +36,5 @@
 * [Cobarde!!!](cobarde_.md)
 * [Dos jugadores](dos_jugadores.md)
 * [Consejos](consejos.md)
-* Créditos
+* [Créditos](creditos.md)
 

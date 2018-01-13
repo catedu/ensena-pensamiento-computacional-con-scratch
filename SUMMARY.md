@@ -2,18 +2,18 @@
 
 * [Introducción](README.md)
 
-____
-### 1. Toma de contacto
-* [Toma de contacto](index0.md)
+## 1. Toma de contacto
+
 * [Pensamiento computacional](pensamiento_computacional.md)
 * [¿Qué herramientas tenemos?](qu_herramientas_tenemos.md)
 * [Instalación](instalacin.md)
-    * [On-Line](online.md)
-    * [Off-Line](offline.md)
+  * [On-Line](online.md)
+  * [Off-Line](offline.md)
 * [Entorno Scratch](entorno_scratch.md)
 * [¡Ya funciona!](ya_funciona.md)
-____
-### 2. Empezando a manejar Scratch
+
+## 2. Empezando a manejar Scratch
+
 * [Empezando a manejar Scratch](index1.md)
 * [Bloques](bloques.md)
 * [Objetos, Disfraces y Fondos](objetos_disfraces_y_fondos.md)
@@ -24,8 +24,9 @@ ____
 * [Mensajes](mensajes.md)
 * [Variables](variables.md)
 * [¡El primer juego!](el_primer_juego.md)
-____
-### 3. Proyecto
+
+## 3. Proyecto
+
 * [Módulo 3 Proyecto](index2.md)
 * [Movimiento pez](movimiento_pez.md)
 * [Movimiento tiburón](movimiento_tiburn.md)
@@ -35,3 +36,4 @@ ____
 * [Cobarde!!!](cobarde_.md)
 * [Dos jugadores](dos_jugadores.md)
 * [Consejos](consejos.md)
+

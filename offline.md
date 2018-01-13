@@ -14,11 +14,6 @@ Al final de esa página está el enlace "Editor sin Conexión", haz clic en él.
 
 ![](img/Seleccion_006.png)
 
-
-
-
-
-
 También existe una versión para Android llamada ScratchJr [[Ver](https://play.google.com/store/apps/details?id=org.scratchjr.android)]. Es una versión reducida pensada para alumnos de infantil.
 
 **Sobre la versión anterior Scratch 1.4:**

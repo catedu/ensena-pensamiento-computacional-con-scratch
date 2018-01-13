@@ -10,7 +10,7 @@
 
 ## Propuesta de pensamiento computacional
 
-Hay muchas herramientas, pero no todas son válidas ni a cualquier edad. En CATEDU hemos elaborado esta hoja de ruta seleccionando algunas y clasificándolo por edades  (no se tiene que tomar al pie de la letra, sólo a nivel orientativo)  para trabajar el pensamiento computacional, podríamos elegir otros modelos de robots, pero estos son los que trabajamos en CATEDU.
+Hay muchas herramientas, pero no todas son válidas ni a cualquier edad. En CATEDU hemos elaborado esta hoja de ruta seleccionando algunas y clasificándolo por edades  (no se tiene que tomar al pie de la letra, sólo a nivel orientativo)  para trabajar el pensamiento computacional, podríamos elegir otros modelos de robots, pero estos son los que trabajamos en CATEDU. ** Puedes ver dónde encaja Scratch**:
 
 ![](https://docs.google.com/drawings/d/1C-wPslYZaqZXwCpGNeedDuRY5LKm3Yz0v9N4sktA_kc/pub?w=960&amp;h=720)
 

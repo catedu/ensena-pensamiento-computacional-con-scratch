@@ -38,6 +38,7 @@ En el programa del pez pequeño:
 Programa del tiburón
 
 ![](img/5-3.png)
+
 [Descarga del programa](http://aularagon.catedu.es/materialesaularagon2013/scratch/M3/peces.sb)
 
 %/accordion%

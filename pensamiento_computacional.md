@@ -41,3 +41,5 @@ El pensamiento computacional se asocia y se relaciona únicamente con la inform�
 La influencia del pensamiento computacional también tiene influencia en otras disciplinas científicas: robótica, estadística, biología, física, química, economía, e incluso existen ejemplos de uso de Scratch en proyectos de letras y artes.
 
 %/accordion%
+
+{% include "git+https://github.com/catedu/ensena-pensamiento-computacional-con-arduino.git/grupo-robotica-educativa-aragon.md" %}

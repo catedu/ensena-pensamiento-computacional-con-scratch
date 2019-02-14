@@ -42,4 +42,4 @@ La influencia del pensamiento computacional también tiene influencia en otras d
 
 %/accordion%
 
-{% include "git+https://github.com/catedu/ensena-pensamiento-computacional-con-arduino.git/grupo-robotica-educativa-aragon.md" %}
+{% include "git+https://github.com/catedu/robotica.git/README.md" %}

@@ -1,7 +1,7 @@
 
 # Pensamiento computacional
 
-El origen del término Pensamiento Computacional fue marcado por Jeannette M. Wing. El pensamiento computacional está directamente relacionado con la informática. Representa una aptitud aplicable universalmente para resolver problemas, diseñar de sistemas, pensar de forma paralela y recursiva. Implica conceptualización, abstracción y descomposición de tareas complejas. Jeannette M. Wing, debido a todas las ventajas que aporta el pensamiento computacional, propone la inclusión de este tipo de formación en edades tempranas.
+El origen del término Pensamiento Computacional fue marcado por Jeannette M. Wing. El pensamiento computacional está directamente relacionado con la informática. Representa una aptitud aplicable universalmente para resolver problemas, diseñar de (sobra "de") sistemas, pensar de forma paralela y recursiva. Implica conceptualización, abstracción y descomposición de tareas complejas. Jeannette M. Wing, debido a todas las ventajas que aporta el pensamiento computacional, propone la inclusión de este tipo de formación en edades tempranas.
 
 J. M. Wing, 2006. Computational Thinking. Communications Of The ACM. 49 (3). https://www.cs.cmu.edu/~CompThink/papers/Wing06.pdf
 
